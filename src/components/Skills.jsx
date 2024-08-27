@@ -4,10 +4,10 @@ import { CoreSkill } from "./CoreSkill";
 
 export const Skills = () => {
   return (
-    <div name="skills" className="w-full bg-white text-black">
+    <div name="skills" className="w-full bg-white text-black p-10">
       {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
-        <div className="pt-4">
+        <div className="flex flex-col justify-center items-center pt-4">
           <p className="text-4xl font-bold inline border-b-4 border-pink-600">
             Skills
           </p>
