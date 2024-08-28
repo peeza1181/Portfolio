@@ -7,7 +7,7 @@ export const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-black text-gray-300 rounded-b-[15px] z-50">
+    <div className="fixed w-full h-[50px] flex justify-between items-center px-4 bg-black text-gray-300 rounded-b-[15px] z-50">
       <div>
         <h1>PSeedker</h1>
       </div>
