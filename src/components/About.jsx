@@ -23,7 +23,7 @@ export const About = () => {
             </p>
           </div>
           <div>
-            <p>
+          <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero
               nihil ducimus sed iusto optio pariatur laborum, commodi nostrum
               molestias tempore quis odio dolorem veritatis unde officia
