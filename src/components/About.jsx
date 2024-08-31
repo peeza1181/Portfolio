@@ -17,19 +17,13 @@ export const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold">
-            <p>
-              Hi. I'm Piyaray Napatpongwalee, nice to meet you. Please take a
-              look around.
+            <p className="tracking-[.05em]">
+              Hi. I'm Piyarat Napatpongwalee, nice to meet you.
             </p>
           </div>
           <div>
-          <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero
-              nihil ducimus sed iusto optio pariatur laborum, commodi nostrum
-              molestias tempore quis odio dolorem veritatis unde officia
-              perferendis soluta voluptate distinctio eum qui! Laboriosam
-              exercitationem atque iure totam amet natus hic. Perspiciatis error
-              blanditiis laboriosam fugiat impedit, maiores veniam quo itaque!
+            <p className="tracking-[.05em]">
+            As a Marketing student, I am passionate about web development. I am currently focusing on Front-end development with the goal of becoming a Full-Stack Developer. I have been learning through online platforms like FreeCodeCamp, Udemy, and YouTube, specializing in React and Tailwind CSS.
             </p>
           </div>
         </div>
