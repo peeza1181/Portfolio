@@ -12,7 +12,7 @@ export const Home = () => {
             <h1 className='sm:text-7xl text-5xl font-bold'>Piyarat Napatpongwalee</h1>
             <p className='text-1xl sm:text-2xl pt-4'>Thank you for visiting my portfolio. Click About to learn more about me.</p>
             <div className='py-3'>
-                <button className='flex items-center px-3 my-2 rounded-[10px] border-2 border-black hover:bg-black hover:text-white duration-700'>
+                <button className='flex items-center px-3 my-2 rounded-[10px] border-2 border-black hover:bg-black hover:text-white duration-10'>
                         <Link to="about" smooth={true} duration={500}>
                             About
                         </Link>
