@@ -73,7 +73,7 @@ export const Contact = () => {
           placeholder="Enter your message"
           required
         ></textarea>
-        <button className="mt-5 mx-auto p-3 rounded-[10px] border-2 border-black hover:border-2 hover:bg-black hover:text-white duration-700 ">
+        <button className="mt-5 mx-auto p-3 rounded-[10px] border-2 border-black hover:border-2 hover:bg-black hover:text-white duration-100 ">
           Send Message
         </button>
       </form>
